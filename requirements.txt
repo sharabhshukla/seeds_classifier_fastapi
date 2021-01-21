@@ -1,0 +1,4 @@
+git+https://github.com/sharabhshukla/seeds_classifier.git
+loguru
+fastapi_simple_security
+google-cloud-logging
